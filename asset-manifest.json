@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Safar/static/css/main.f470f3dd.css",
+    "main.js": "/Safar/static/js/main.c3799d69.js",
+    "index.html": "/Safar/index.html",
+    "main.f470f3dd.css.map": "/Safar/static/css/main.f470f3dd.css.map",
+    "main.c3799d69.js.map": "/Safar/static/js/main.c3799d69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f470f3dd.css",
+    "static/js/main.c3799d69.js"
+  ]
+}
